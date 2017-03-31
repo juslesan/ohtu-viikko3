@@ -1,0 +1,7 @@
+.gradle
+/.nb-gradle/
+/build/
+/ohtu2017-master/koodi/viikko2/RiippuvuuksienInjektointi1/.nb-gradle/
+/ohtu2017-master/koodi/viikko2/RiippuvuuksienInjektointi2/.nb-gradle/
+/ohtu2017-master/koodi/viikko3/HelloCucumber/build/
+/ohtu2017-master/koodi/viikko3/LoginCucumber/build/
